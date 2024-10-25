@@ -1,5 +1,7 @@
 # Welcome to the Agile Bacı
 
+![Agile Bacı](./docs/images/agilebaci_200.png "Agile Bacı")
+
 Meet Agile Bacı – an AI-powered, all-knowing life coach, mentor, confidant, and advisor tailored just for you. Whether you're working through an agile sprint, contemplating the next steps in your project, or seeking a trusted ear to share insights, Agile Bacı is here to listen, learn, and guide.
 
 Agile Bacı adapts and grows from your interactions, absorbing insights from your questions, feedback, and agile framework documentation. Think of her as the assistant you've always wanted—dedicated, empathetic, and always ready to lend a hand 24/7 without ever asking for a break.
